@@ -31,7 +31,7 @@ If you want to modify the source code, then you need to compile it. You need IAR
 Forum
 =====
 
-Please visit our the MiniBeacon forum if you have something to discuss or share.</br>
+Please visit our MiniBeacon forum if you have something to discuss or share.</br>
 https://redbearlab.zendesk.com/forums/23026986-MiniBeacon
 
 
