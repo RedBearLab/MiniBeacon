@@ -490,7 +490,7 @@ uint16 MiniBeacon_ProcessEvent( uint8 task_id, uint16 events )
         uint8 advData[] =
         {
           0x02, // size
-          0x01,0x1A,
+          0x01,0x06,
         };
         GAPRole_SetParameter( GAPROLE_ADVERT_DATA, sizeof( advData ), advData ); 
         
