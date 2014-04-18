@@ -17,7 +17,9 @@ The BLE Mini can load the MiniBeacon firmware (MiniBeacon-YYYYMMDD.bin) via the 
 
 You need to compile the AirLocate App using XCode, but you can search for other 3rd party Apps in the AppStore.
 
-We provided an App for MiniBeacon maintenance, such as setting the beacon UUID, marjor and minor values, etc.
+We also provides an App for MiniBeacon maintenance, such as setting the beacon UUID, marjor and minor values, etc.
+
+To enter the MiniBeacon maintenance mode, press the button on the BLE Mini and it will wait for a connection.
 
 *** Note that, the USB update is not compatible with Windows 8.1 ***
 
