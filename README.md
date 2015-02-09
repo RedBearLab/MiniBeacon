@@ -7,7 +7,7 @@ MiniBeacon is an iBeacon (designed by Apple) implementation with CC2540 SoC.
 Requirement
 ===========
 
-This firmware is designed for and tested on RedBearLab's BLE Mini development boards, but it should work on other CC2540 platforms with some modifications (since we store beacon data in BLE Mini's EEPROM).
+This firmware is designed for and tested on RedBearLab's [BLE Mini](http://redbearlab.com/blemini/) development board, but it should work on other CC2540 platforms with some modifications (since we store beacon data in BLE Mini's EEPROM).
 
 
 QuickStart
@@ -35,6 +35,24 @@ Forum
 
 Please visit our MiniBeacon forum if you have something to discuss or share.</br>
 https://redbearlab.zendesk.com/forums/23026986-MiniBeacon
+
+
+Credits
+=======
+
+Thanks [@BohanLu](https://github.com/BohanLu), provides an [Android version of configuration tool](https://github.com/BohanLu/NobleAries) for this MiniBeacon firmware.
+
+
+Resources
+=========
+
+1. BLE Mini product brief
+
+  http://redbearlab.com/blemini/
+
+2. BLE Mini resources on GitHub
+
+  https://github.com/RedBearLab/BLEMini
 
 
 License
