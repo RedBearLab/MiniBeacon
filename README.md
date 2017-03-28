@@ -30,13 +30,6 @@ Compilation
 If you want to modify the source code, then you need to compile it. You need IAR 8051 C compiler (version 8.20.2) and TI CC254x BLE SDK (version 1.4). They are only available on Windows platform.
 
 
-Forum
-=====
-
-Please visit our MiniBeacon forum if you have something to discuss or share.</br>
-https://redbearlab.zendesk.com/forums/23026986-MiniBeacon
-
-
 Credits
 =======
 
